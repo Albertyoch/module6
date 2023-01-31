@@ -1,0 +1,7 @@
+Through three interactive charts, our team and client are allowed to understand the data of San Fransisco's neigbourhoods housing market. 
+
+The first bar chart illustrates how the unit in San Fransisco increase each year. This news shows that there is market for our domain to provide buy and rent services as the housing market keep flourishing, indicating buyer, seller, and renter are vigorous and overflowing each year.
+
+The second part shows how the properties increase in  the average value of sale price and gross rent. And overall, the gross rent growth increase over 6 years has been the most impressive and opportunity opening for renter or buyer with intention of passive income from rent. However, the appreciation in sale price wise is trivial. Through the interactive visualisation, we can see zoomed in and out to observe the pattern.
+
+The third part present each neighbourhood plays part in our potential service to our client. Through this data we can observe which neigbourhood offer the greatest value through comparing the gross rent price and the sale price for each housing. Similarly, we can use the tools in our data visualiation to play explore more detailed about the region.
